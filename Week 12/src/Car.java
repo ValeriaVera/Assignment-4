@@ -1,4 +1,8 @@
-
+/**
+ * Repository https://github.com/ValeriaVera/Week-12.git
+ * @author Valeria
+ *
+ */
 public class Car {
 	private String color;
 	private double horsePower;
